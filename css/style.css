@@ -1,0 +1,54 @@
+.header{
+	background-color: green;
+	min-height: 100px
+}
+
+.container{
+	border: 10px solid cyan;
+	overflow: hidden;
+}
+.blog{
+	background-color: red;
+	min-height: 150px;
+	width: 70%;
+	float: left;
+}
+
+.contact{
+	background-color: blue;
+	min-height: 150px;
+	width:  30%;
+	float: right;
+
+}
+
+.wrapper{
+	overflow: hidden;
+
+
+}
+.qube{ 
+	background-color: pink;
+	min-height: 150px;
+	width: 33.33%;
+	float: left;
+
+}
+.qube1{
+	background-color: cyan;
+}
+
+.qube2{
+	background-color: black;
+}
+
+.qube3{
+	background-color: lime;
+}
+
+
+ .footer{
+ 	background-color: purple;
+ 	min-height: 180px;
+
+ }
